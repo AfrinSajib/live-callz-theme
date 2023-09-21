@@ -1,0 +1,9 @@
+@media(max-width:769px){
+    .nav-link {
+        color: #fa0202;
+    } 
+    .offcanvas-body {
+        background: #0961b1;
+    }
+        
+    }
